@@ -1,0 +1,28 @@
+body {
+    background-color: lightskyblue;
+}
+
+form, h1 {
+    text-align: center;
+}
+
+.image {
+    height: 150px;
+    width: 150px;
+}
+
+.item {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.name {
+    margin-left: 15px;
+}
+
+#next {
+    display: none;
+    text-align: center;
+    margin: 30px;
+}
